@@ -1,0 +1,16 @@
+# Welcomer Plugin Config
+# Renk kodları: &0 siyah, &1 koyu mavi, &2 koyu yeşil, &3 koyu aqua, &4 koyu kırmızı
+# &5 koyu mor, &6 altın, &7 gri, &8 koyu gri, &9 mavi, &a yeşil, &b aqua
+# &c kırmızı, &d açık mor, &e sarı, &f beyaz
+
+first-join-message: "&aHoş geldin &e{player}&a! Sunucumuza ilk kez katılıyorsun!"
+welcome-back-message: "&aTekrar hoş geldin &e{player}&a!"
+personal-welcome-message: "&6⭐ &eSunucumuza hoş geldin! &aKuralları okumayı unutma :)"
+broadcast-message: "&7[&a+&7] &e{player} &asunucuya katıldı!"
+quit-message: "&7[&c-&7] &e{player} &csunucudan ayrıldı!"
+# Başlık (Title) Ayarları
+title-main: "§6§lMERHABA"
+title-subtitle: "§e{player} §aSunucuya Hoş Geldin!"
+title-fade-in: 10
+title-stay: 70
+title-fade-out: 20

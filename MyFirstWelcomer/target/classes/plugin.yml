@@ -1,0 +1,6 @@
+name: Welcomer
+version: 1.0-SNAPSHOT
+main: com.Yusuf.Welcomer.Main
+api-version: "1.21"
+description: İlk welcomer pluginim!
+author: Yusuf
